@@ -3,9 +3,9 @@
 
 public Plugin myinfo =
 {
-	name = "Estrogenless Anti Romanian",
-	author = "Blurp ft drpepper",
-	description = "Makes romanians stay far away!",
+	name = "Estrogenless welcome message",
+	author = "Blurp",
+	description = "Simple welcome message",
 	version = "1.0",
 	url = "https://steamcommunity.com/id/ck4"
 };
